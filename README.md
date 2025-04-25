@@ -1,5 +1,5 @@
-# App Engagement Data Science Collaboration Repo
-Welcome to the App Engagement Data Science team's collaboration space! This repository is designed to centralize, share, and collaborate on essential logics, experiments, and deep dives that drive product insights. By contributing here, we can streamline our workflows, ensure consistency, and improve our experimentation processes.
+# App Data Science Collaboration Repo
+Welcome to the App Data Science team's collaboration space! This repository is designed to centralize, share, and collaborate on essential logics, experiments, and deep dives that drive product insights. By contributing here, we can streamline our workflows, ensure consistency, and improve our experimentation processes.
 
 ### Repository Structure:
 The repository is organized into the following sections for ease of access and collaboration:
